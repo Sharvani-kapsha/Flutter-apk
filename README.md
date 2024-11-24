@@ -1,0 +1,2 @@
+A Finance Application 
+Designed and developed a flutter-based mobile application compatible with Android devices using dart. Implemented Advanced UI/UX features, including custom shaders for enhanced visuals. Integrated Android libraries and optimized the app for multiple architectures (ARM and x86). Utilized assets and category-based features (e.g., Education, food, transportation) for user-centric design.
